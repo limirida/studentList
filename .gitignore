@@ -1,0 +1,6 @@
+.idea
+.gitlab-ci
+
+node_modules
+
+/dist
